@@ -97,4 +97,4 @@ Place one face in front of Misty in a well-lit area. Press `Ctrl+C` to stop. The
 - **Connection refused at port 11434:** open the Ollama app, or start `ollama serve` in a separate terminal.
 - **Model not found:** run `ollama pull qwen2.5vl:3b`.
 - **Misty connection error:** set `MISTY_IP`, check Wi-Fi/network connectivity, and make sure Misty's REST API is reachable from this PC.
-- **Misty does not speak:** check the robot's volume/audio service and inspect the printed speech status/error.
+- **Misty does not speak:** check the robot's volume/audio service and inspect the printed speech status/error. yes
